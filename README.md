@@ -1,4 +1,4 @@
-I'm Ryang Sohn (alternatively, `curling_grad`), currently in [Hana Academy Seoul](https://github.com/hanaacademyseoul).
+I'm Ryang Sohn (alternatively, `curling_grad`), currently working in PoApper.
 
 I write code for myself, and the repos you'll find in my account are likely to be some unfinished (and probably abandoned) side project. Yeah, I know it's generally not a good practice, but I'm not the only person who does that... ([Source](https://www.commitstrip.com/en/2014/11/25/west-side-project-story/))
 
